@@ -28,4 +28,6 @@
 
 This is a normal paragraph.
 
-    This is a codearea.
+	<footer>
+		&copy; 2016 baidu
+	</footer>
