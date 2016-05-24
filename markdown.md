@@ -10,15 +10,6 @@
 > This is another blockquote. This is another blockquote.
 >> This is a inner blockquote. This is a inner blockquote. This is a inner blockquote. This is a inner blockquote. This is a inner blockquote. This is a inner blockquote.
 
-* Red
-* Green
-* Blue
-
-+ Cyan
-+ Megata
-+ Yellow
-+ Black
-
 1. First
 	* Red
 	* Green
@@ -29,3 +20,6 @@
 	* Yellow
 	* Black
 3. Third
+	* H
+	* S
+	* L
