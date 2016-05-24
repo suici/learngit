@@ -23,3 +23,8 @@
 	* H
 	* S
 	* L
+
+1988\. I was born
+
+This is a normal paragraph.
+    This is a codearea.
