@@ -33,4 +33,8 @@ This is a normal paragraph.
 	</footer>
 
 This is a seperate line.
-***
+* * *
+
+This is en [example](http://example.com/ 'example') inline link.
+This [example](http://example.com) has no title attribute.
+This is a relative path [expale](/base/example/).
