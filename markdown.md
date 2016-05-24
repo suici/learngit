@@ -35,6 +35,9 @@ This is a normal paragraph.
 This is a seperate line.
 * * *
 
-This is en [example](http://example.com/ 'example') inline link.
-This [example](http://example.com) has no title attribute.
-This is a relative path [expale](/base/example/).
+### Inline Link Style
+Has title attribute: [example](http://example.com "title")
+
+Has no title attribute: [example](http://example.com)
+
+Relative path: [readme](/readme.md)
