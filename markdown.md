@@ -41,3 +41,10 @@ Has title attribute: [example](http://example.com "title")
 Has no title attribute: [example](http://example.com)
 
 Relative path: [readme](/readme.md)
+
+### Reference Link Style
+[Google][1], [Bing][2] and [Yahoo][3].
+[1]: http://google.com
+[2]: http://bing.com
+[3]: http://yahoo.com
+
