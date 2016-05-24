@@ -41,13 +41,19 @@ Relative path: [readme](/readme.md)
 [yahoo]: http://yahoo.com "CCC"
 
 ### Strong
-* single asterisks *
-** double asterisks **
+*single asterisks*
+**double asterisks**
 
 
 ```javascript
   var ihubo = {
-    nickName  : "≤›“¿…Ω",
-    site : "http://jser.me"
+    nickName  : "baiduer",
+    site : "http://baidu.com"
   }
 ```
+
+![Baidu Logo](https://www.baidu.com/img/bd_logo1.png "Logo")
+
+click here: <http://www.baidu.com/>
+
+mail to <mm@baidu.com>
