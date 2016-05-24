@@ -1,8 +1,4 @@
 # H1 #
-## H2 ##
-### H3 ###
-#### H4 ####
-##### H5 #####
 ###### H6 ######
 
 > This is a blockquote. This is a blockquote. This is a blockquote. This is a blockquote. This is a blockquote. This is a blockquote. This is a blockquote. This is a blockquote.
@@ -15,14 +11,10 @@
 	* Green
 	* Blue
 2. Second
-	* Cyan
-	* Megata
-	* Yellow
-	* Black
+	* A
+	* B
+	* C
 3. Third
-	* H
-	* S
-	* L
 
 1988\. I was born
 
@@ -43,8 +35,19 @@ Has no title attribute: [example](http://example.com)
 Relative path: [readme](/readme.md)
 
 ### Reference Link Style
-[Google][1], [Bing][] and [Yahoo][3].
-[Google]: http://google.com "AAA"
+[Google][1], [Bing][] and [Yahoo][].
+[1]: http://google.com "AAA"
 [BING]: http://bing.com
-[3]: http://yahoo.com "CCC"
+[yahoo]: http://yahoo.com "CCC"
 
+### Strong
+* single asterisks *
+** double asterisks **
+
+
+```javascript
+  var ihubo = {
+    nickName  : "≤›“¿…Ω",
+    site : "http://jser.me"
+  }
+```
