@@ -31,3 +31,6 @@ This is a normal paragraph.
 	<footer>
 		&copy; 2016 baidu
 	</footer>
+
+This is a seperate line.
+---
