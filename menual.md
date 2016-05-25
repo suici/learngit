@@ -19,7 +19,8 @@ Like, seriously, a _LOT_ of text**
 
 #### Blockquotes
 
-> Right angle brackets &gt; are used for block quotes.
+> Right angle brackets &gt; are used for block quotes.> > > 
+
 
 #### Links and Email
 
@@ -42,7 +43,9 @@ A ![Resize icon][2] reference style image.
 [2]: http://resizesafari.com/favicon.ico "Title"
 
 #### Inline code and Block code
-
+         asd
+	asdasd
+	
 Inline code are surround by `backtick` key. To create a block code:
 
 	Indent each line by at least 1 tab, or 4 spaces.
